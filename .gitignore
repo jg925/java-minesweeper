@@ -1,0 +1,12 @@
+#Gradle
+.gradle
+build/
+
+gradle-app.setting
+
+#VSCode
+.vscode/
+bin/
+
+#Misc
+*.log
